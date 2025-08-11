@@ -1,0 +1,8 @@
+{
+  "id": "pairspaces",
+  "version": "3.0.8",
+  "name": "PairSpaces for DevContainers",
+  "description": "Installs the PairSpaces CLI and configures the DevContainer to host a Space.",
+  "documentationURL": "https://docs.pairspaces.com/spaces/new",
+  "keywords": ["pair", "pairspaces"]
+}
